@@ -1,6 +1,6 @@
 # AMUST Cricket Game
 
-This game is a part of my first semester CSE 1101 project. Nothing too fancy here. Just another simple CLI game written in C language.
+This game is a part of my first semester CSE 1102 project. Nothing too fancy here. Just another simple CLI game written in C language.
 
 
 ## How to run this program?
