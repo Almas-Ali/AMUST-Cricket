@@ -8,13 +8,13 @@ This game is a part of my first semester CSE 1102 project. Nothing too fancy her
 You need to have GCC installed to compile this program for your system. Any version of GCC compiler can be use.
 
 ```bash
-// Compile the program to native binary file
+# Compile the program to native binary file
 gcc cricket.c -o cricket
 
-// Execute the program (Linux)
+# Execute the program (Linux)
 ./cricket
 
-// For Windows just double click on the executable file.
+# For Windows just double click on the executable file.
 ```
 
 ## Contribution
